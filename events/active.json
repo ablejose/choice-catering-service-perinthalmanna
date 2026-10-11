@@ -1,0 +1,38 @@
+{
+  "slug": "choice-catering-service-perinthalmanna",
+  "name": "Choice Catering Service",
+  "shortName": "Choice",
+  "descriptor": "Catering Services",
+  "address": "X6G9+83J, Perinthalmanna, Keralam 679322",
+  "area": "Perinthalmanna",
+  "city": "Perinthalmanna",
+  "district": "Malappuram",
+  "region": "Kerala",
+  "postalCode": "679322",
+  "geo": {
+    "lat": 10.9758254,
+    "lng": 76.21765409999999
+  },
+  "mapsLink": "https://maps.google.com/?cid=10470128180795113241",
+  "phone": "+91 80866 16000",
+  "whatsapp": "918086616000",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 3.4,
+  "reviewCount": 59,
+  "reviews": [
+    {
+      "name": "Arun P",
+      "rating": 5,
+      "quote": "Thanks for on time delivery at door step at reasonable rate. Taste of the food was also good. I will recommend your service."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp"
+  ],
+  "url": "https://choice-catering-service-perinthalma.vercel.app"
+}
